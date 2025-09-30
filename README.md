@@ -23,6 +23,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 - Dart/Flutter, JavaScript/TypeScript, React, Angular, Next.JS, Node.JS, HTML/CSS.
 - Java, C, Python, C#.
 - Firebase, Prisma, SQLite, Oracle, MySQL, Microsoft SQL Server e PostgreSQL.
+- Figma, Canvas, Trello, Git.
 
 ---
 
