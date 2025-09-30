@@ -18,22 +18,19 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tecnologias e Ferramentas:
 
-- Dart/Flutter (intermediário)
-- Java, C, Python, JavaScript/TypeScript, HTML/CSS
-- Noções intermediárias de Banco de Dados
-- Firebase, React, Angular
+- Dart/Flutter, JavaScript/TypeScript, React, Angular, Next.JS, Node.JS, HTML/CSS.
+- Java, C, Python, C#.
+- Firebase, Prisma, SQLite, Oracle, MySQL, Microsoft SQL Server e PostgreSQL.
 
 ---
 
 ## 💻 Projetos em Destaque
 
 - [NextJS](https://github.com/valdirtavares18/NextJS)
-- [BRISA](https://github.com/valdirtavares18/BRISA)
 - [Grupo1BRISA](https://github.com/valdirtavares18/Grupo1BRISA)
-- [Ferramenta](https://github.com/valdirtavares18/Ferramenta)
-- [FerramentaDocker](https://github.com/valdirtavares18/FerramentaDocker)
+
 
 ---
 
