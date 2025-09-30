@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/valdirtavares18/valdirtavares18/raw/main/banner.png" alt="Banner do dinossauro do Chrome" width="100%" />
+  <img src="https://github.com/valdirtavares18/valdirtavares18/raw/main/banner.png.png" alt="Banner do dinossauro do Chrome" width="100%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Valdir 👋</h1>
