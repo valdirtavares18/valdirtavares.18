@@ -31,6 +31,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 
 - [NextJS](https://github.com/valdirtavares18/NextJS)
 - [Grupo1BRISA](https://github.com/valdirtavares18/Grupo1BRISA)
+- [Evento-Gestão](https://github.com/valdirtavares18/evento-gestao)
 
 
 ---
