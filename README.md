@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou o Valdir 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software Júnior <br>
+  Desenvolvedor de Software <br>
   Estudante de Engenharia de Software (8º semestre)
 </p>
 
