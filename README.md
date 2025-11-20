@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 8º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encarar novos desafios.
+Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 8º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encara[...]  
 
 ---
 
@@ -43,4 +43,29 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 
 ---
 
-<!-- Você pode ir adicionando mais informações, curiosidades ou seções conforme desejar! -->
+
+---
+
+<!-- STATS_ADDED -->
+## 📊 Estatísticas do GitHub (novas)
+
+<p align="center">
+  <!-- Visualizações de perfil -->
+  <img src="https://komarev.com/ghpvc/?username=valdirtavares18&color=blue" alt="profile views" />
+
+  <!-- GitHub Readme Stats: resumo -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valdirtavares18&show_icons=true&theme=tokyonight" alt="valdirtavares18's GitHub stats" />
+
+  <!-- Top languages -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirtavares18&layout=compact&theme=tokyonight" alt="Top languages" />
+
+  <!-- Streak -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valdirtavares18&theme=tokyonight" alt="GitHub streak" />
+
+  <!-- Activity graph (commits por dia) -->
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=valdirtavares18&theme=github" alt="activity graph" />
+</p>
