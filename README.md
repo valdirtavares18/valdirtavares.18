@@ -41,31 +41,4 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/valdir-guilherme-nascimento-tavares-6a379732b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/tavarexxz/)
 
----
 
-
----
-
-<!-- STATS_ADDED -->
-## 📊 Estatísticas do GitHub (novas)
-
-<p align="center">
-  <!-- Visualizações de perfil -->
-  <img src="https://komarev.com/ghpvc/?username=valdirtavares18&color=blue" alt="profile views" />
-
-  <!-- GitHub Readme Stats: resumo -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=valdirtavares18&show_icons=true&theme=tokyonight" alt="valdirtavares18's GitHub stats" />
-
-  <!-- Top languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirtavares18&layout=compact&theme=tokyonight" alt="Top languages" />
-
-  <!-- Streak -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valdirtavares18&theme=tokyonight" alt="GitHub streak" />
-
-  <!-- Activity graph (commits por dia) -->
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=valdirtavares18&theme=github" alt="activity graph" />
-</p>
